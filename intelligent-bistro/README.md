@@ -26,7 +26,7 @@ npx expo start
 # Press 'i' for iOS Simulator
 
 
-AI Tools Used in Development
+AI Tools Used in Development:
 
 Claude (claude.ai) — Architecture planning and generating the full project scaffold
 Claude Code — Autonomous file creation, dependency installation, and debugging
