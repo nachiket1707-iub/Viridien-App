@@ -4,7 +4,7 @@ Where AI meets Fine Dining
 
 A full-stack AI-powered restaurant ordering app where customers browse a menu and manage their cart through natural conversation with an AI assistant.
 
-Features
+Features:
 
 1) Conversational Ordering — "I'd like two wagyu burgers and a glass of wine" updates your cart instantly
 2) Menu Browsing — Filterable by category with dietary badges and smooth animations
